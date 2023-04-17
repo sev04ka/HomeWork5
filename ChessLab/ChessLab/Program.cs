@@ -38,19 +38,19 @@
                 switch (figureSelector)
                 {
                     case ConsoleKey.D1:
-                        Console.WriteLine($"Возможно ли аткое перемещение?: {chess.King(x1, y1, x2, y2)}");
+                        Console.WriteLine($"Возможно ли такое перемещение?: {chess.King(x1, y1, x2, y2)}");
                         break;
                     case ConsoleKey.D2:
-                        Console.WriteLine($"Возможно ли аткое перемещение?: {chess.Queen(x1, y1, x2, y2)}");
+                        Console.WriteLine($"Возможно ли такое перемещение?: {chess.Queen(x1, y1, x2, y2)}");
                         break;
                     case ConsoleKey.D3:
-                        Console.WriteLine($"Возможно ли аткое перемещение?: {chess.Rook(x1, y1, x2, y2)}");
+                        Console.WriteLine($"Возможно ли такое перемещение?: {chess.Rook(x1, y1, x2, y2)}");
                         break;
                     case ConsoleKey.D4:
-                        Console.WriteLine($"Возможно ли аткое перемещение?: {chess.Bishop(x1, y1, x2, y2)}");
+                        Console.WriteLine($"Возможно ли такое перемещение?: {chess.Bishop(x1, y1, x2, y2)}");
                         break;
                     case ConsoleKey.D5:
-                        Console.WriteLine($"Возможно ли аткое перемещение?: {chess.Knight(x1, y1, x2, y2)}");
+                        Console.WriteLine($"Возможно ли такое перемещение?: {chess.Knight(x1, y1, x2, y2)}");
                         break;
                     case ConsoleKey.D6:
                         Console.WriteLine($"Возможно ли такое перемещение?: {chess.Pawn(x1, y1, x2, y2)}");
