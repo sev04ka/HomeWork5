@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\bin\Debug\net7.0\ChessLab.exe
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\bin\Debug\net7.0\ChessLab.deps.json
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\bin\Debug\net7.0\ChessLab.runtimeconfig.json
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\bin\Debug\net7.0\ChessLab.dll
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\bin\Debug\net7.0\ChessLab.pdb
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.AssemblyInfo.cs
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.dll
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\refint\ChessLab.dll
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.pdb
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ChessLab.genruntimeconfig.cache
+C:\Users\User\Desktop\HW_5(Belyaev)\ChessLab\ChessLab\obj\Debug\net7.0\ref\ChessLab.dll
